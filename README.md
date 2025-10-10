@@ -117,6 +117,4 @@ You can find more information about the Apache License 2.0 [here](https://www.ap
 
 ## Credits
 
-This project was created by [Pradyoth S P](https://www.linkedin.com/in/pradyothsp/).
-
 The backorder dataset used to train the prediction model is from the [Kaggle](https://www.kaggle.com/datasets/gauravsbisht/backorder-prediction).
